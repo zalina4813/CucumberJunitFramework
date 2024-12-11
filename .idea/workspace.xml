@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2009f3e9-4386-4844-a265-249c03b898ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CommonsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step_definitions/CaloriesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/GenerateCalories.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,40 +34,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: GenerateCalories.executor&quot;: &quot;Debug&quot;,
-    &quot;Cucumber Java.Feature: Search.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To test multiple sets of data.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: User successfully signs up with valid details.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can generate 4 meals for given amount of calories.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can generate 5 meals for given amount of calories for Vegan.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can generate 6 meals for given amount of calories.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can search products in English -  - Example n°1.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can search products in English -  - Example n°4.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify user can search products in English.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: verify etsy.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: verify user can generate 5 meals for given amount of calories for vegan.executor&quot;: &quot;Debug&quot;,
-    &quot;Cucumber Java.Scenario: verify user can generate 5 meals for given amount of calories.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: verify user can search restaurants by valid address.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CucumberRunner.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zalina Magiday/Desktop/CucumberJunitFramework/src/test/java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Zalina Magiday/Desktop/CucumberJunitFramework/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: GenerateCalories.executor": "Debug",
+    "Cucumber Java.Feature: Search.executor": "Run",
+    "Cucumber Java.Feature: VendingMachine.executor": "Run",
+    "Cucumber Java.Scenario: To test multiple sets of data.executor": "Run",
+    "Cucumber Java.Scenario: User successfully signs up with valid details.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can generate 4 meals for given amount of calories.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can generate 5 meals for given amount of calories for Vegan.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can generate 6 meals for given amount of calories.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can search products in English -  - Example n°1.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can search products in English -  - Example n°4.executor": "Run",
+    "Cucumber Java.Scenario: Verify user can search products in English.executor": "Run",
+    "Cucumber Java.Scenario: verify etsy.executor": "Run",
+    "Cucumber Java.Scenario: verify user can generate 5 meals for given amount of calories for vegan.executor": "Debug",
+    "Cucumber Java.Scenario: verify user can generate 5 meals for given amount of calories.executor": "Run",
+    "Cucumber Java.Scenario: verify user can search restaurants by valid address.executor": "Run",
+    "JUnit.CucumberRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Zalina Magiday/Desktop/CucumberJunitFramework/src/test/java",
+    "onboarding.tips.debug.path": "C:/Users/Zalina Magiday/Desktop/CucumberJunitFramework/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zalina Magiday\Desktop\CucumberJunitFramework\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: verify user can search restaurants by valid address">
+  <component name="RunManager" selected="Cucumber Java.Feature: VendingMachine">
     <configuration name="Feature: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Search.feature" />
@@ -102,15 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: To test multiple sets of data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: VendingMachine" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Search.feature" />
-      <option name="GLUE" value="step_definitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/VendingMachine.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberJunitFramework" />
-      <option name="NAME_FILTER" value="^To test multiple sets of data$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^To test multiple sets of data$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: To test multiple sets of data" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: VendingMachine" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -172,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: VendingMachine" />
         <item itemvalue="Cucumber Java.Scenario: verify user can search restaurants by valid address" />
         <item itemvalue="Cucumber Java.Scenario: verify etsy" />
         <item itemvalue="JUnit.CucumberRunner" />
         <item itemvalue="Cucumber Java.Feature: Search" />
-        <item itemvalue="Cucumber Java.Scenario: To test multiple sets of data" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "step_definitions",
         tags = "@vending",
-        dryRun = false
+        dryRun = true
 )
 public class CucumberRunner {
 }
